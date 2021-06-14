@@ -20,12 +20,20 @@ public class Scorer : MonoBehaviour
 
             case "Yellow":
                 {
-                    //TODO make sure all yellow spheres have been collected, maybe int for how many in each stage
+                    //TODO: make sure all yellow spheres have been collected, maybe int for how many in each stage
+                    break;
+                }
+
+            case "Green":
+                {
+                    //TODO: check if all yellow collected, if all collected next level, else checkpoint
                     break;
                 }
 
             case "":
-                break;
+                {
+                    break;
+                }
         }
         
     }
