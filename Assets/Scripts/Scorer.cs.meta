@@ -3,7 +3,8 @@ guid: 18e79cdd89a0c6049a5170932ea11322
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - YellowSpheres: {fileID: 5573415744707009465, guid: 192fcdd037c1c3f4a824eeb9b8b24aa8, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

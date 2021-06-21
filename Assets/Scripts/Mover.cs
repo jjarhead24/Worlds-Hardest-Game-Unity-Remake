@@ -19,6 +19,7 @@ public class Mover : MonoBehaviour
 
     void PrintInstructions()
     {
+        //TODO remove this
         Debug.Log("Welcome to the game");
         Debug.Log("Avoid all the blue shapes and make it to the other green section");
         Debug.Log("Make sure to grab all yellow circles on the way");
